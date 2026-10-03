@@ -1,0 +1,14 @@
+{
+  "name": "mi-proyecto",
+  "version": "1.0.0",
+  "description": "Proyecto base con Node.js y npm",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "db": "node basedatos.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
